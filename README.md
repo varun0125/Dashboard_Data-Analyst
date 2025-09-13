@@ -10,7 +10,7 @@ Hotel Booking Performance Dashboard
 
 
 
-<a href="https://github.com/varun0125/Dashboard_Data-Analyt/blob/main/Dashboard1.xlsx" > Excel File</a>
+<a href="https://github.com/varun0125/Dashboard_Data-Analyst/blob/main/Dashboard1.xlsx" > Excel File</a>
 
 Total Bookings – Number of reservations made.
 
