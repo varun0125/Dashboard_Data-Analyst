@@ -41,4 +41,4 @@ Seasonality Trends – Monthly or yearly booking trends.
 
 Dashboard
 
-<a href="https://github.com/varun0125/Dashboard_Data-Analyt/blob/main/Screenshot%202025-09-13%20132720.png" >View Dashboard</a>
+<a href="https://github.com/varun0125/Dashboard_Data-Analyst/blob/main/Screenshot%202025-09-13%20132720.png" >View Dashboard</a>
